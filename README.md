@@ -1,7 +1,7 @@
 # Fifa_19_Analytics
 
-In this project I start with a basic understanding of the dataset and fetch some answers to a few things I'm questioning / wondering.
+In this project I start with the rough data of Fifa 19's player attributes. I clean the data to my liking to set it up for analysis.
 
-Later I decide to build the team under 21 years old team predicated on speed. 
+After the data is cleaned I decide to build the best starting lineup of under 21 years old players, with each player having at least a 70 or higher rating of speed.
 
 I begin by making decisions by looking at and visualizing different parts of the data, and later build a linear regression to determine the best options.
